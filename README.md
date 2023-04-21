@@ -1,0 +1,1 @@
+[*Курс "Аналитик данных" от  Karpov.Courses*](https://karpov.courses/analytics) 
